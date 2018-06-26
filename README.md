@@ -1,2 +1,2 @@
 # acoding
-New High Level Compression Algorithms
+New High effective Compression Algorithms
